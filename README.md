@@ -27,7 +27,7 @@ Things you’ll need to do:
 * Use your model to classify the test images.
 * Create a CSV file that contains the predictions for the test images.
 * Submit the CSV file to Kaggle.
-* Take a screenshot of the result of your submission, and add it to your notebook: ![Kaggle Submittal ](KaggleSubmittal2.png "Kaggle Submittal")
+* Take a screenshot of the result of your submission, and add it to your notebook: ![Kaggle Submittal](KaggleSubmittal.png "Kaggle Submittal")
 * Commit your notebook and push it to GitHub.
 
 ## Submission details
