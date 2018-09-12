@@ -1,7 +1,7 @@
 # CS 152
 # Assignment 1
-# September 13, 2019
-##  Due September 19, 2019, 11 PM.
+# September 13, 2018
+##  Due September 19, 2018, 11 PM.
 
 In this assignment, you’ll work with the Kaggle Dog Breed Identification dataset. Your model will distinguish between 120 different breeds of dogs. The end result of this assignment is to make a submission to Kaggle for this challenge.
 
